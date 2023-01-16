@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on [Script Interpreter](https://github.com/hectellian/formula-inter) for Compilation Course
+- 🔭 I’m currently working on [My portfolio](https://github.com/hectellian/hectellian.github.io)
 
 - 🌱 I’m currently learning **Rust, JS Frameworks and TS**
 
@@ -25,6 +25,7 @@
 
 <h3 align="left">Other Projects:</h3>
 
+- [Script Interpreter](https://github.com/hectellian/formula-inter)
 - [Design Pattern Implementation](https://github.com/hectellian/design-patterns-2)
 - [Postfixer And Evaluation of Algebric Formulas](https://github.com/hectellian?tab=repositories)
 - [First C Projects for OS Course](https://github.com/hectellian/sys_projects)
