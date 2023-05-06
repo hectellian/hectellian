@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on [My Data Mining Project](https://github.com/hectellian/wind-power-forecast)
+- 🔭 I’m currently working on [My Data Mining Project](https://github.com/hectellian/wind-power-forecasting)
 
 - 🌱 I’m currently learning **Rust, JS Frameworks and TS**
 
