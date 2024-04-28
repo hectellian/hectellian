@@ -5,13 +5,13 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on [My Bachelor Project]()
+- 🔭 I’m currently working on [My Bachelor Project](https://github.com/hectellian/bachelorproject)
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **christoforouanthony@gmail.com**
+- 📫 How to reach me **anthony.christoforou@proton.me**
 
-- 📄 Know about my experiences [https://hectellian.github.io/](https://hectellian.github.io/)
+- 📄 Know about my experiences [https://hectellian.github.io/](https://hectellian.github.io/) (Deprecated)
 
 - ⚡ Fun fact **I enjoy reading manga/manhwas as well as practicing martial arts and other extreme sports**
 
