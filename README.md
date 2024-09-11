@@ -30,9 +30,6 @@
 - [Postfixer And Evaluation of Algebric Formulas](https://github.com/hectellian?tab=repositories)
 - [First C Projects for OS Course](https://github.com/hectellian/sys_projects)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/hectellian"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hectellian" /></a></p><br><br><br><br>
-
 <h3 align="left">Stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectellian&show_icons=true&locale=en&layout=compact" alt="hectellian" /></p><br>
