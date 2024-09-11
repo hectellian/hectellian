@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my lectures :(
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **anthony.christoforou@proton.me**
 
