@@ -5,9 +5,9 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on [My Bachelor Project](https://github.com/hectellian/bachelorproject)
+- 🔭 I’m currently working on my lectures :(
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **anthony.christoforou@proton.me**
 
