@@ -1,19 +1,15 @@
 <h1 align="center">Hey 👋, I'm hectellian</h1>
-<h3 align="center">A struggling but passionate student in computer science</h3>
+<h3 align="center">A passionate student in cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectellian&label=Profile%20views&color=0e75b6&style=flat" alt="hectellian" /> </p>
 
-- 😄 Pronouns: He/Him
-
-- 🔭 I’m currently working on my lectures :(
-
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **anthony.christoforou@proton.me**
 
 - 📄 Know about my experiences [https://hectellian.github.io/](https://hectellian.github.io/) (Deprecated)
 
-- ⚡ Fun fact **I enjoy reading manga/manhwas as well as practicing martial arts and other extreme sports**
+- ⚡ Fun fact **I enjoy learning new things, reading manga/manhwas as well as practicing martial arts and other extreme sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,10 +21,8 @@
 
 <h3 align="left">Other Projects:</h3>
 
+- BSc Project: Hardware Security flaws and their impact on Software Security
 - [Script Interpreter](https://github.com/hectellian/formula-inter)
-- [Design Pattern Implementation](https://github.com/hectellian/design-patterns-2)
-- [Postfixer And Evaluation of Algebric Formulas](https://github.com/hectellian?tab=repositories)
-- [First C Projects for OS Course](https://github.com/hectellian/sys_projects)
 
 <h3 align="left">Stats:</h3>
 
