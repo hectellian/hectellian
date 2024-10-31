@@ -23,6 +23,9 @@
 
 - [BSc Project: Hardware Security flaws and their impact on Software Security](https://github.com/hectellian/bachelorproject/blob/main/main.pdf)
 - [Script Interpreter](https://github.com/hectellian/formula-inter)
+- [Multi Layered Percepton model for the AI Course at UNIGE](https://github.com/hectellian/ai-nn-project)
+- [Wind Power Forecasting multiple models for the Data Mining Cours at UNIGE](https://github.com/hectellian/wind-power-forecasting)
+- [Design Patterns implementation](https://github.com/hectellian/design-patterns-2)
 
 <h3 align="left">Stats:</h3>
 
