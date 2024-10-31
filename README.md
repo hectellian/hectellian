@@ -21,7 +21,7 @@
 
 <h3 align="left">Other Projects:</h3>
 
-- BSc Project: Hardware Security flaws and their impact on Software Security
+- [BSc Project: Hardware Security flaws and their impact on Software Security](https://github.com/hectellian/bachelorproject/blob/main/main.pdf)
 - [Script Interpreter](https://github.com/hectellian/formula-inter)
 
 <h3 align="left">Stats:</h3>
