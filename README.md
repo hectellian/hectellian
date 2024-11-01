@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anthony.christoforou@proton.me**
 
-- 📄 Know about my experiences [https://hectellian.github.io/](https://hectellian.github.io/) (Deprecated)
+- 📄 Know about my experiences [https://hectellian.github.io/](https://hectellian.github.io/) (Rebuilding it from scratch)
 
 - ⚡ Fun fact **I enjoy learning new things, reading manga/manhwas as well as practicing martial arts and other extreme sports**
 
