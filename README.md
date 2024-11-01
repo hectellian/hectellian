@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://hectellian.github.io/](https://hectellian.github.io/) (Rebuilding it from scratch)
 
-- ⚡ Fun fact **I enjoy learning new things, reading manga/manhwas as well as practicing martial arts and other extreme sports**
+- ⚡ Fun fact **I enjoy learning new things, playing video games, reading and practicing martial arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
