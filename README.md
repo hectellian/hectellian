@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Go**
 
-- ⚙️ Learning UART and IoT Firmware Extraction and Analysis
+- ⚙️ Learning about Infrastructure Security
 
-- 📫 How to reach me **anthony.christoforou@proton.me**
+- 📫 How to reach me **info@hectellian.dev**
 
 - 📄 Know about my experiences [https://hectellian.github.io/](https://hectellian.github.io/) (Rebuilding it from scratch)
 
